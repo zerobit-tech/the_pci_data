@@ -22,7 +22,7 @@ listing.
     # ------------------------------------------------------
     # django-otp
     # ------------------------------------------------------
-    OTP_TOTP_ISSUER = 'LineOfCredit'
+    OTP_TOTP_ISSUER = 'sample pci data app'
     OTP_ENTRY_URL = '/twofactor/'
 
 
