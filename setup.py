@@ -12,8 +12,8 @@ except:
     pass
 
 requirements = [
-    'django==4.0.5',
-    'django-fernet-fields==0.6'
+    'django>=4.0.5',
+    'django-fernet-fields~=0.6'
 ]
 
 # python setup.py publish
